@@ -1,0 +1,10 @@
+flask
+torch
+diffusers
+transformers
+accelerate
+safetensors
+sentencepiece
+sacremoses
+langdetect
+pillow
